@@ -1,0 +1,35 @@
+
+@import url('./questions.css');
+@import url('./bar.css');
+@import url('./hints.css');
+@import url('./overlay.css');
+@import url('./input.css');
+@import url('./button.css');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+html, body {
+  height: 100%;
+  width: 100%;
+
+	margin: 0px;
+
+	font-family: "Space Grotesk", sans-serif;
+}
+
+:root {
+	--background-main-color: #DDEEFF;
+	--background-secondary-color: #334455;
+	--background-decor-size: 30px;
+}
+
+#background {
+	background-color: var(--background-main-color);
+
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+
+	z-index: -1;
+}

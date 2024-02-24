@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+
+	<title>Studyin'</title>
+
+	<link href="css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+	<div id="background">
+
+	</div>
+
+	<div id="hints"></div>
+
+	<div id="bar">
+		<div id="name">
+			<!-- :) -->
+			Loading...
+		</div>
+
+		<div id="stats">
+			<div id="correct">
+				<div>Correct:</div>
+				<div id="correct-number">0</div>
+			</div>
+		</div>
+
+		<div id="status-indicator">
+			<!-- JS rules -->
+		</div>
+
+		<button id="input-button" class="orphan button sticky">Load</button>
+
+		<div id="timer"></div>
+	</div>
+
+	<div id="bar-placeholder"></div>
+
+	<div id="questions">
+		<!-- Filled in the script with questions -->
+	</div>
+
+	<div id="overlay" style="display: none;">
+		<div id="load-overlay" class="overlay">
+				<button for="file" class="button sticky" id="load-button">Choose study set to upload</button>
+				<input
+					type="file"
+					style="visibility:hidden; position:fixed;"
+					id="file"
+					name="file"
+					accept=".json"
+				/>
+
+			<div id="load-overlay-buttons">
+				<button id="load-overlay-cancel" class="button sticky">Cancel</button>
+				<button id="load-overlay-confirm" class="button sticky">Confirm</button>
+			</div>
+		</div>
+	</div>
+
+	<script src="script.js" type="module"></script>
+
+</body>
+
+</html>

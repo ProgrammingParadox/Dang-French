@@ -1,0 +1,26 @@
+{
+	"name": "French 2: magic vocab",
+	"questions": [
+		"Je [bois](drink)",
+		"Tu [bois](drink)",
+		"Il/Elle/On [boit](drink)",
+		"Nous [buvons](drink)",
+		"Vous [buvez](drink)",
+		"Ils/Elles [boivent](drink)",
+		
+		"Je [vais](go)",
+		"Tu [vas](go)",
+		"Il/Elle [va](go)",
+		"Nous [allons](go)",
+		"On/Iel [va](go)",
+		"Vous [allez](go)",
+		"Ils/Elles [vont](go)",
+
+		"Je [prends](have/take)",
+		"Tu [prends](have/take)",
+		"Il/Elle [prend](have/take)",
+		"Nous [prenons](have/take)",
+		"Vous [prenez](have/take)",
+		"Ils/Elles [prennent](have/take)"
+	]
+}

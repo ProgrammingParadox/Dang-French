@@ -1,0 +1,73 @@
+
+#showcase {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background: rgb(61,255,116);
+	background: linear-gradient(43deg, rgba(61,255,116,1) 10%, rgba(61,173,255,1) 50%, rgba(205,0,255,1) 100%);
+
+	width: 100%;
+	height: 100%;
+
+	overflow: hidden;
+}
+#showcase-text, .aletter {
+	font-size: 10em;
+	font-weight: 600;
+
+	color: #DEF;
+
+	opacity: 0;
+
+	translateY: -100%;
+
+	display: inline-block;
+}
+
+#showcase-start {
+	position: absolute;
+
+	top: 200%;
+	left: 0px;
+	right: 0px;
+
+	display: flex;
+	justify-content: center;
+
+	opacity: 0;
+
+	#showcase-start-text {
+		color: #FFF;
+
+		font-size: 1em;
+		font-weight: 300;
+	}
+}
+
+#learn {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	height: 100%;
+	width: 100%;
+}
+.learn-text {
+	font-size: 1.5em;
+	font-weight: 600;
+
+	color: #FFF;
+
+	text-align: center;
+}
+.learn-text > * {
+	display: inline-block;
+}
+
+#learn-content-buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+

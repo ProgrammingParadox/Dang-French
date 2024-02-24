@@ -1,0 +1,85 @@
+#questions {
+	width: auto;
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+}
+#questions:empty {
+	width: 100px;
+	height: 100px;
+
+	background: linear-gradient(
+		20deg,
+		rgba(240, 250, 255, 0.7),
+		rgba(230, 250, 255, 0.7) 90%
+	);
+	backdrop-filter: blur(20px);
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: center;
+
+	margin: 10px 10% 10px 10%;
+	padding: 10px;
+
+	border-radius: 10px;
+	border: 1px solid rgba(250, 250, 250, 0.2);
+
+	box-shadow: 
+		-1px -1px 0px rgba(190, 207, 224, 0.2),
+		1px 1px 0px rgba(200, 217, 254, 0.2),
+
+		0px 0px 10px rgba(0, 0, 0, 0.05),
+		-1px -1px 10px rgba(0, 0, 0, 0.05),
+		1px 1px 10px rgba(255, 255, 255, 0.05);
+}
+
+.question-card {
+	background: linear-gradient(
+		20deg,
+		rgba(240, 250, 255, 0.7),
+		rgba(200, 230, 255, 0.9) 90%
+	);
+	backdrop-filter: blur(20px);
+
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+
+	margin: 10px 10% 10px 10%;
+	padding: 10px;
+
+	width: clamp(40em, 50%, 50%);
+
+	border-radius: 10px;
+	border: 1px solid rgba(250, 250, 250, 0.2);
+
+	box-shadow: 
+		-1px -1px 0px rgba(190, 207, 224, 0.2),
+		1px 1px 0px rgba(200, 217, 254, 0.2),
+
+		0px 0px 10px rgba(0, 0, 0, 0.05),
+		-1px -1px 10px rgba(0, 0, 0, 0.05),
+		1px 1px 10px rgba(255, 255, 255, 0.05),
+
+		inset -1px 1px 0px rgba(255, 255, 255, 0.1),
+		inset 1px -1px 0px rgba(240, 240, 240, 0.1);
+
+	z-index: 0;
+}
+
+.buttons {
+	display: flex;
+
+	gap: 10px;
+}
+
+.question {
+	padding: 5px;
+
+	font-size: 1em;
+}

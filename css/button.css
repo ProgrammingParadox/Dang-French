@@ -1,0 +1,67 @@
+.sticky {
+	perspective: 400px;
+}
+.button {
+	background: rgba(240, 250, 255, 0.7);
+	backdrop-filter: blur(20px);
+
+	font-family: "Space Grotesk", sans-serif;
+	font-size: 0.9rem;
+
+	-webkit-appearance: button;
+	-moz-appearance: button;
+	appearance: button;
+
+	text-decoration: none;
+	color: initial;
+
+	cursor: default;
+
+	position: relative;
+
+	border: none;
+	display: inline-block;
+	outline: none;
+
+	padding: 5px 10px;
+
+	border-radius: 5px;
+	border: 1px solid rgba(250, 250, 250, 0.2);
+
+	box-shadow: 
+		-1px -1px 0px rgba(190, 207, 224, 0.2),
+		1px 1px 0px rgba(200, 217, 254, 0.2),
+
+		0px 0px 10px rgba(0, 0, 0, 0.05),
+		-1px -1px 10px rgba(0, 0, 0, 0.05),
+		1px 1px 10px rgba(255, 255, 255, 0.05),
+
+		inset 0px 0px 20px rgba(255, 255, 255, 0.2);
+
+	transition-duration: 0.1s;
+
+	&.clear {
+		background: rgba(240, 250, 255, 0.1);
+
+		color: #DFF;
+		
+		box-shadow: /*
+			-1px -1px 0px rgba(190, 207, 224, 0.2),
+			1px 1px 0px rgba(200, 217, 254, 0.2),*/
+	
+			0px 0px 10px rgba(0, 0, 0, 0.05),
+			-1px -1px 10px rgba(0, 0, 0, 0.05),
+			1px 1px 10px rgba(255, 255, 255, 0.05),
+	
+			inset 0px 0px 20px rgba(255, 255, 255, 0.05),
+			inset 2px -3px 10px rgba(255, 255, 255, 0.05);
+	}
+	&.tiny {
+		padding: 1px 7px;
+
+		font-size: 0.8rem;
+	}
+	&.orphan {
+		border-radius: 10px;
+	}
+}
