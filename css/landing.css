@@ -24,6 +24,11 @@
 
 	display: inline-block;
 }
+@media (max-width: 600px){
+	#showcase-text, .aletter {
+		font-size: 5em;
+	}
+}
 
 #showcase-start {
 	position: absolute;
