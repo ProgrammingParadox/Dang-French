@@ -29,7 +29,7 @@ let words = [
 	["obé", "obey"],
 	["réag", "react"],
 	["réfléch", "reflect"],
-	["réussir", "to succeed"],
+	["réuss", "to succeed"],
 	["roug", "to blush"]
 ];
 let endings = [
@@ -79,7 +79,7 @@ function createHintListeners(){
 	});
 }
 
-load("irverbs")
+load("more-french")
 	.then(createHintListeners);
 
 let loadElement = document.getElementById("file");

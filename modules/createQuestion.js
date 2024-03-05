@@ -31,7 +31,7 @@ export function createQuestion(line){
 			} else {
 				c.classList.remove("correct");
 
-				if(a.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "") === c.value) {
+				if(a.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "") === c.value.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")) {
 					c.classList.add("almost");
 				} else {
 					c.classList.remove("almost");
