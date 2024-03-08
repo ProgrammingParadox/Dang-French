@@ -2,13 +2,74 @@
 {
 	"name": "French 2: -ir verbs",
 	"questions": [
+		"[faire](to do; to make)",
+
+		"Je [fais](to do; to make)",
+		"Tu [fais](to do; to make)",
+		"Il/Elle/On [fait](to do; to make)",
+		"Nous [faisons](to do; to make)",
+		"Vous [faites](to do; to make)",
+		"Ils/Elles [font](to do; to make)",
+		
 		"[aller à la pêche](to go fishing)",
 		"[lire](read)",
 		"[des bandes dessinées](comic books)",
-		"[bricoler](odd jobs)",
+		"[bricoler](to do odd jobs)",
 		"[désirer](desire)",
 		"[pratiquer](practice)",
-		"[entriaînement](train to do something)",
-		"[une équipe](a team)"
+		"[entraînement](train to do something)",
+		"[une équipe](a team)",
+		
+		"[jouer aux échecs](to play chess)",
+		"[jouer aux cartes](to play cards)",
+		"[jouer aux jeux vidéo](to play video games)",
+
+		"[jouer du piano](to play the piano)",
+
+		"[jouer du football](to play football)",
+
+		"[aider](to help) à + infinitive",
+
+		"[une fois](once) [par semaine](per week)",
+		"[deux fois](twice) [par mois](per month)",
+
+		"n'étudier [jamais](never)",
+		"n'étudier [rien](anything)",
+		"n'étudier [que](only)",
+		"n'étudier [plus](no longer)",
+
+		"[veux](want)",
+
+		"[encore](still/again)",
+		"[maintenant](now)",
+		"[longtemps](longer)",
+		"[déjà](already)",
+		
+		"[faire une promenade](to take a walk)",
+		"[faire du tour](to move around)",
+		"[faire une randonnée](to take a hike)",
+		"[faire la connaissance de](to meet for the first time)",
+		"[faire de la planche à voile](to go wind surfing",
+
+		"[sortir de](to go out from)",
+		"Je [sors](go out)",
+		"Tu [sors](go out)",
+		"Il/Elle/On [sort](go out)",
+		"Nous [sortons](go out)",
+		"Vous [sortez](go out)",
+
+		"[partir](to part/leave)",
+		"[dormir](to sleep)",
+		"[mentir](to lie)",
+		"[courir](to run)",
+		"[server](to serve)",
+		"[sentir](to sense, smell, or feel)",
+
+		"[venir](to come)",
+		"Je/Tu [viens](come)",
+		"Il/Elle/On [vient](come)",
+		"Nous [venons](come)",
+		"Vous [venez](come)",
+		"Ils/Elles [viennent](come)"
 	]
 }

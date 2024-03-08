@@ -2,6 +2,9 @@
 // TODO: accent helpers, homepage, editor and loader (loader done), different hints maybe?, fix progress indicator, timer
 // dang bugs
 
+// I'm beginning to question the authority the TODO list has over me.
+// How much do I really need from 
+
 import { stickify } from './modules/stickify.js';
 import { QuestionHandler } from './modules/QuestionHandler.js';
 import { removeHintBuddies, populate } from './modules/populate.js';
