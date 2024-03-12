@@ -82,6 +82,8 @@ function createHintListeners(){
 	});
 }
 
+load("test-1")
+load("irverbs")
 load("more-french")
 	.then(createHintListeners);
 
