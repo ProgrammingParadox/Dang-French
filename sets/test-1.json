@@ -16,11 +16,16 @@
 		"Vous [allez](go)",
 		"Ils/Elles [vont](go)",
 
+		"[prendre](to have/take) (infinitive)",
 		"Je [prends](have/take)",
 		"Tu [prends](have/take)",
 		"Il/Elle [prend](have/take)",
 		"Nous [prenons](have/take)",
 		"Vous [prenez](have/take)",
-		"Ils/Elles [prennent](have/take)"
+		"Ils/Elles [prennent](have/take)",
+
+		"[apprendre](to learn)",
+		"[comprendre](to understand)",
+		"[suprendre](to suprise)"
 	]
 }
