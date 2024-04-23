@@ -82,9 +82,9 @@ function createHintListeners(){
 	});
 }
 
-load("test-1")
-load("irverbs")
-load("more-french")
+//await load("test-1")
+//await load("irverbs")
+await load("stupid-french")
 	.then(createHintListeners);
 
 let loadElement = document.getElementById("file");

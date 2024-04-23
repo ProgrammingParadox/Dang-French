@@ -1,0 +1,59 @@
+
+{
+	"name": "French 2: stupid french.",
+	"questions": [
+		"[attendre](to wait/wait for)",
+		"[descendre](to descend)",
+		"[entendre](to hear)",
+		"[perdre](to lose)",
+		"[perdre son temps](to waste time)",
+		"[rendre](return/give back)",
+		"[rendre visité à](visit a person)",
+		"[répondre à](to respond to)",
+		"[vendre](sell)",
+
+		"J'[attends](wait)",
+		"Tu [attends](wait)",
+		"Il/Elle/On [attend](wait)",
+		"Nous [attendons](wait)",
+		"Vous [attendez](wait)",
+		"Ils/Elles [attendent](wait)",
+		"J'ai [attendu](waited) (past participle)",
+
+		"[conduire](to drive)",
+		"[mettre](to put/put on/turn electronics on)",
+		"[permettre](to permit; allow)",
+		"[promettre](to promise)",
+		"[sourire](to smile)",
+		"[rire](laugh)",
+		"[construire](construct)",
+		"[détruire](to destroy)",
+		"[tradiure](translate)",
+		"[réduire](to reduce)",
+		"[produire](to produce)",
+
+		"Je [mets](put on)",
+		"Tu [mets](put on)",
+		"Il [met](put on)",
+		"Nous [mettons](put on)",
+		"Vous [mettez](put on)",
+		"Ils [mettent](put on)",
+		"J'ai [mis](put on) (past participle)",
+
+		"Je [conduis](drive)",
+		"Tu [conduis](drive)",
+		"Il [conduit](drive)",
+		"Nous [conduisons](drive)",
+		"Vous [conduisez](drive)",
+		"Ils [conduisent](drive)",
+		"J'ai [conduit](drive) (past participle)",
+
+		"Je [ris](laugh)",
+		"Tu [ris](laugh)",
+		"Il [rit](laugh)",
+		"Nous [rions](laugh)",
+		"Vous [riez](laugh)",
+		"Ils [rient](laugh)",
+		"J'ai [ri](laugh) (past participle)"
+	]
+}
