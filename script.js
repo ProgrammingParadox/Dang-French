@@ -1,4 +1,5 @@
 
+// TODO! 
 // TODO: accent helpers, homepage, editor and loader (loader done), different hints maybe?, fix progress indicator, timer
 // dang bugs
 
@@ -93,6 +94,12 @@ let loadButton = document.getElementById("load-button");
 loadButton.addEventListener("click", event => {
 	loadElement.click();
 });
+
+let randomizeButton = document.getElementById("random-button");
+randomizeButton.addEventListener("click", event => {
+	
+});
+
 
 function closeOverlay(){
 	document.getElementById("overlay").style.display = "none";

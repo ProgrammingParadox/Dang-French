@@ -28,7 +28,7 @@
 		"[rire](laugh)",
 		"[construire](construct)",
 		"[détruire](to destroy)",
-		"[tradiure](translate)",
+		"[traduire](translate)",
 		"[réduire](to reduce)",
 		"[produire](to produce)",
 
@@ -54,6 +54,48 @@
 		"Nous [rions](laugh)",
 		"Vous [riez](laugh)",
 		"Ils [rient](laugh)",
-		"J'ai [ri](laugh) (past participle)"
+		"J'ai [ri](laugh) (past participle)",
+
+		"[poser un question à](ask/pose a question)",
+		"[demander à](ask)",
+		"[donner à](give)",
+		"[écrire à](write)",
+		"[envoyer à](send to)",
+		"[parler à](speak to)",
+		"[dire à](say)",
+		"[montrer à](to show)",
+		"[prêter à](to loan)",
+		"[téléphoner à](to call)",
+		
+		"Je [dis](say)",
+		"Tu [dis](say)",
+		"Il [dit](say)",
+		"Nous [disons](say)",
+		"Vous [dites](say)",
+		"Ils [disent](say)",
+		"J'ai [dit](said) (past participle)",
+
+		"Je [écris](write)",
+		"Tu [écris](write)",
+		"Il [écrit](write)",
+		"Nous [écrivons](write)",
+		"Vous [écrivez](write)",
+		"Ils [écrivent](write)",
+		"J'ai [écrit](written) (past participle)",
+
+		"Je [lis](read)",
+		"Tu [lis](read)",
+		"Il [lit](read)",
+		"Nous [lisons](read)",
+		"Vous [lisez](read)",
+		"Ils [lient](read)",
+		"J'ai [lu](read) (past participle)",
+
+		"I speak to her = [Je lui parle]",
+		"I don't speak to her = [Je ne lui parle pas]",
+		"I am going to speak to her = [Je vais lui parler]",
+		"I am not going to speak to her = [Je ne vais pas lui parler]",
+		"I have spoken to her = [Je lui ai parlé]",
+		"I have not spoken to her = [Je ne lui ai pas parlé]"
 	]
 }
