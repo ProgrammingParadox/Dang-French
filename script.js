@@ -83,8 +83,9 @@ function createHintListeners(){
 	});
 }
 
-//await load("test-1")
-//await load("irverbs")
+await load("test-1")
+await load("irverbs")
+await load("places")
 await load("stupid-french")
 	.then(createHintListeners);
 
@@ -97,7 +98,8 @@ loadButton.addEventListener("click", event => {
 
 let randomizeButton = document.getElementById("random-button");
 randomizeButton.addEventListener("click", event => {
-	
+	questionHandler.randomize();
+	questionHandler.current = questionHandler.current;
 });
 
 

@@ -8,7 +8,7 @@
 		"[perdre](to lose)",
 		"[perdre son temps](to waste time)",
 		"[rendre](return/give back)",
-		"[rendre visité à](visit a person)",
+		"[rendre visite à](visit a person)",
 		"[répondre à](to respond to)",
 		"[vendre](sell)",
 
@@ -56,7 +56,7 @@
 		"Ils [rient](laugh)",
 		"J'ai [ri](laugh) (past participle)",
 
-		"[poser un question à](ask/pose a question)",
+		"[poser une question à](ask/pose a question)",
 		"[demander à](ask)",
 		"[donner à](give)",
 		"[écrire à](write)",
@@ -88,7 +88,7 @@
 		"Il [lit](read)",
 		"Nous [lisons](read)",
 		"Vous [lisez](read)",
-		"Ils [lient](read)",
+		"Ils [lisent](read)",
 		"J'ai [lu](read) (past participle)",
 
 		"I speak to her = [Je lui parle]",
@@ -96,6 +96,21 @@
 		"I am going to speak to her = [Je vais lui parler]",
 		"I am not going to speak to her = [Je ne vais pas lui parler]",
 		"I have spoken to her = [Je lui ai parlé]",
-		"I have not spoken to her = [Je ne lui ai pas parlé]"
+		"I have not spoken to her = [Je ne lui ai pas parlé]",
+
+		"[confortable](comfortable)",
+		"[gilet](cardigan)",
+		"[une chemise](a men's dress shirt)",
+		"[un chemisier](a woman's dress shirt)",
+		"[un tailleur](a woman's suit)",
+		"[un costume](a men's suit)",
+		"[un manteau](an overcoat)",
+		"[un blouson](a jacket)",
+		"[un vendeur](a salesman)",
+		"[une vendeuse](a saleswoman)",
+		"[chere](expensive masculine) [chère](expensive feminine)",
+		"[bon marché](cheap)",
+		"[une taille](a size)",
+		"[serré](tight masculine) [serrée](tight feminine)"
 	]
 }

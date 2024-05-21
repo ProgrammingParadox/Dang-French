@@ -14,6 +14,7 @@ export class StatusIndicatorHandler {
 		return this.__current;
 	}
 	set current(value){
+		//this.statusIndicator.scrollTo
 		this.__current = value;
 		this.__update__();
 	}

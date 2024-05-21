@@ -91,6 +91,10 @@ export class QuestionHandler {
 		return total;
 	}
 
+	randomize() {
+		this.questions.sort(() => Math.random() - 0.5);
+	}
+
 	get correct() {
 		return this.__correct;
 	}
