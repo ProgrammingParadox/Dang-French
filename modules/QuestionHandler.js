@@ -1,5 +1,6 @@
 
 import { StatusIndicatorHandler } from "./StatusIndicatorHandler.js";
+import './confetti.min.js';
 
 // why doesn't this show up on mobile?
 
@@ -70,6 +71,16 @@ export class QuestionHandler {
 				this.sih.correct[i] = 0;
 				if(c.classList.contains("correct")){
 					this.sih.correct[i] = 1;
+
+					/*
+					// Pass in the id of an element
+					let confetti = new Confetti('questions');
+
+					// Edit given parameters
+					confetti.setCount(75);
+					confetti.setSize(1);
+					confetti.setPower(25);
+					confetti.setFade(false);*/
 
 					correct++;
 				}
