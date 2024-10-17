@@ -49,16 +49,22 @@
 		-1px -1px 10px rgba(0, 0, 0, 0.05),
 		1px 1px 10px rgba(255, 255, 255, 0.05);
 }
+#stats {
+	display: flex;
+	justify-content: center;
+	align-items: stretch;
+}
 #correct {
 	background: linear-gradient(80deg, rgba(200, 255, 200, 0.7), rgba(100, 200, 250, 0.7) 150%);
 	backdrop-filter: blur(20px);
 
 	padding: 5px 10px;
 
-	display: flex;
-	gap: 5px;
-
 	border-radius: 10px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
 
 	/* border-radius: 10px; */
 	border: 1px solid rgba(180, 230, 180, 0.4);
@@ -86,7 +92,10 @@
 	justify-content: space-between;
 	align-items: center;
 
-	overflow: scroll;
+	overflow-y: hidden;
+	overflow-x: scroll;
+
+	scrollbar-width: thin;
 
 	gap: 10px;
 
